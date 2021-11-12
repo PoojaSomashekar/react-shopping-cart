@@ -1,0 +1,42 @@
+.container {
+   display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  margin: 4%;
+}
+.card_container{
+  width: 56rem;
+  height: auto;
+  margin-left:1% 0 1% 6%;
+  padding: 3%;
+  box-shadow: 2px 2px 2px grey;
+}
+
+.card_img{
+  width: 30%;
+  height: 35%;
+  margin-left: 25%;
+}
+
+.card_body {
+  padding: 5px;
+}
+
+.label {
+  font-weight: 700;
+  padding: 4px
+}
+.fa-rupee-sign {
+  font-weight: bold;
+}
+
+.rating{
+  font-weight: bold;
+  padding: 4px;
+}
+
+.btns {
+  padding: 9px;
+  font-size: 20px;
+  margin: 5px;
+}
